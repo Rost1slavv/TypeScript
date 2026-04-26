@@ -1,0 +1,48 @@
+{
+  "id": 4,
+  "name": "Навчальні курси",
+  "shortname": "courses",
+  "notes": "Короткі навчальні програми з веб-розробки та цифрових інструментів.",
+  "items": [
+    {
+      "id": 401,
+      "name": "Основи TypeScript",
+      "shortname": "typescript-basics",
+      "description": "Курс знайомить із типами, інтерфейсами, класами, generics та компіляцією TypeScript у JavaScript.",
+      "price": 2100,
+      "image": "https://placehold.co/200x200/png?text=TypeScript"
+    },
+    {
+      "id": 402,
+      "name": "Ajax та робота з JSON",
+      "shortname": "ajax-json",
+      "description": "Практичний курс про fetch API, асинхронні запити, обробку помилок і динамічне оновлення DOM.",
+      "price": 1900,
+      "image": "https://placehold.co/200x200/png?text=Ajax+JSON"
+    },
+    {
+      "id": 403,
+      "name": "HTML та CSS з нуля",
+      "shortname": "html-css",
+      "description": "Вивчення структури HTML-документа, семантики, CSS-сіток, адаптивності та базової доступності.",
+      "price": 1700,
+      "image": "https://placehold.co/200x200/png?text=HTML+CSS"
+    },
+    {
+      "id": 404,
+      "name": "Git для початківців",
+      "shortname": "git-basics",
+      "description": "Пояснення комітів, гілок, віддалених репозиторіїв, pull request та базового командного рядка.",
+      "price": 1200,
+      "image": "https://placehold.co/200x200/png?text=Git"
+    },
+    {
+      "id": 405,
+      "name": "DOM-події у JavaScript",
+      "shortname": "dom-events",
+      "description": "Розбір подій, слухачів, делегування подій та безпечної роботи з елементами сторінки.",
+      "price": 1600,
+      "image": "https://placehold.co/200x200/png?text=DOM"
+    }
+  ]
+}

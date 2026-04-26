@@ -1,0 +1,48 @@
+{
+  "id": 3,
+  "name": "Онлайн-послуги",
+  "shortname": "online-services",
+  "notes": "Умовні цифрові послуги для користувачів та малого бізнесу.",
+  "items": [
+    {
+      "id": 301,
+      "name": "Налаштування сайту-візитки",
+      "shortname": "landing-setup",
+      "description": "Базове налаштування односторінкового сайту з контактами, описом послуг і адаптивним дизайном.",
+      "price": 3500,
+      "image": "https://placehold.co/200x200/png?text=Landing"
+    },
+    {
+      "id": 302,
+      "name": "Аудит швидкодії сайту",
+      "shortname": "performance-audit",
+      "description": "Перевірка основних показників завантаження сторінки та підготовка рекомендацій щодо оптимізації.",
+      "price": 1800,
+      "image": "https://placehold.co/200x200/png?text=Audit"
+    },
+    {
+      "id": 303,
+      "name": "Верстка email-шаблону",
+      "shortname": "email-template",
+      "description": "Підготовка адаптивного HTML-шаблону для інформаційної або рекламної розсилки.",
+      "price": 1200,
+      "image": "https://placehold.co/200x200/png?text=Email"
+    },
+    {
+      "id": 304,
+      "name": "Консультація з GitHub Pages",
+      "shortname": "github-pages-help",
+      "description": "Допомога з публікацією статичного сайту у репозиторії GitHub та налаштуванням GitHub Pages.",
+      "price": 900,
+      "image": "https://placehold.co/200x200/png?text=GitHub+Pages"
+    },
+    {
+      "id": 305,
+      "name": "Підключення форми зворотного зв'язку",
+      "shortname": "feedback-form",
+      "description": "Створення простої форми для збору повідомлень від відвідувачів сайту.",
+      "price": 1500,
+      "image": "https://placehold.co/200x200/png?text=Form"
+    }
+  ]
+}

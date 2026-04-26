@@ -1,0 +1,48 @@
+{
+  "id": 2,
+  "name": "Домашній офіс",
+  "shortname": "home-office",
+  "notes": "Товари для комфортної організації робочого місця вдома.",
+  "items": [
+    {
+      "id": 201,
+      "name": "Ергономічна клавіатура",
+      "shortname": "ergonomic-keyboard",
+      "description": "Клавіатура з низьким ходом клавіш і зручною формою для тривалої роботи за комп'ютером.",
+      "price": 1899,
+      "image": "https://placehold.co/200x200/png?text=Keyboard"
+    },
+    {
+      "id": 202,
+      "name": "Офісна миша",
+      "shortname": "office-mouse",
+      "description": "Безпровідна миша з тихими кнопками, регулюванням DPI та тривалим часом роботи від батареї.",
+      "price": 649,
+      "image": "https://placehold.co/200x200/png?text=Mouse"
+    },
+    {
+      "id": 203,
+      "name": "Настільна LED-лампа",
+      "shortname": "desk-lamp",
+      "description": "Лампа з кількома режимами яскравості для навчання, читання та роботи у вечірній час.",
+      "price": 799,
+      "image": "https://placehold.co/200x200/png?text=Lamp"
+    },
+    {
+      "id": 204,
+      "name": "Підставка для ноутбука",
+      "shortname": "laptop-stand",
+      "description": "Складана підставка для підняття екрана ноутбука на зручну висоту.",
+      "price": 699,
+      "image": "https://placehold.co/200x200/png?text=Stand"
+    },
+    {
+      "id": 205,
+      "name": "Органайзер для кабелів",
+      "shortname": "cable-organizer",
+      "description": "Комплект тримачів і стяжок для впорядкування зарядних кабелів та проводів на столі.",
+      "price": 249,
+      "image": "https://placehold.co/200x200/png?text=Cables"
+    }
+  ]
+}

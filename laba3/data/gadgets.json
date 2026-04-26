@@ -1,0 +1,48 @@
+{
+  "id": 1,
+  "name": "Гаджети",
+  "shortname": "gadgets",
+  "notes": "Категорія умовних електронних товарів для щоденного використання.",
+  "items": [
+    {
+      "id": 101,
+      "name": "Бездротові навушники",
+      "shortname": "wireless-headphones",
+      "description": "Компактні навушники з кейсом для заряджання, мікрофоном і стабільним Bluetooth-з'єднанням.",
+      "price": 1599,
+      "image": "https://placehold.co/200x200/png?text=Headphones"
+    },
+    {
+      "id": 102,
+      "name": "Смарт-годинник",
+      "shortname": "smart-watch",
+      "description": "Годинник для відстеження активності, повідомлень, сну та базових спортивних показників.",
+      "price": 2499,
+      "image": "https://placehold.co/200x200/png?text=Watch"
+    },
+    {
+      "id": 103,
+      "name": "Портативна колонка",
+      "shortname": "portable-speaker",
+      "description": "Акустична колонка з акумулятором для подорожей, пікніків і домашнього використання.",
+      "price": 1199,
+      "image": "https://placehold.co/200x200/png?text=Speaker"
+    },
+    {
+      "id": 104,
+      "name": "Power Bank 20000 mAh",
+      "shortname": "power-bank",
+      "description": "Зовнішній акумулятор для швидкого підзаряджання смартфона, планшета або інших USB-пристроїв.",
+      "price": 1399,
+      "image": "https://placehold.co/200x200/png?text=Power+Bank"
+    },
+    {
+      "id": 105,
+      "name": "USB-C хаб",
+      "shortname": "usb-c-hub",
+      "description": "Перехідник із портами HDMI, USB-A та USB-C для підключення периферії до ноутбука.",
+      "price": 899,
+      "image": "https://placehold.co/200x200/png?text=USB-C+Hub"
+    }
+  ]
+}
