@@ -1,0 +1,48 @@
+{
+  "id": 1,
+  "name": "Автозапчастини",
+  "shortname": "auto-parts",
+  "notes": "Основні комплектуючі для планового обслуговування автомобіля.",
+  "items": [
+    {
+      "id": 101,
+      "name": "Масляний фільтр",
+      "shortname": "oil-filter",
+      "description": "Фільтр для очищення моторної оливи від дрібних частинок і продуктів зносу двигуна.",
+      "price": 320,
+      "image": "https://placehold.co/200x200/png?text=Oil+Filter"
+    },
+    {
+      "id": 102,
+      "name": "Повітряний фільтр",
+      "shortname": "air-filter",
+      "description": "Елемент системи впуску, який затримує пил і допомагає підтримувати стабільну роботу двигуна.",
+      "price": 410,
+      "image": "https://placehold.co/200x200/png?text=Air+Filter"
+    },
+    {
+      "id": 103,
+      "name": "Гальмівні колодки",
+      "shortname": "brake-pads",
+      "description": "Комплект передніх колодок для впевненої роботи гальмівної системи у міському режимі.",
+      "price": 1450,
+      "image": "https://placehold.co/200x200/png?text=Brake+Pads"
+    },
+    {
+      "id": 104,
+      "name": "Свічки запалювання",
+      "shortname": "spark-plugs",
+      "description": "Набір свічок для бензинового двигуна, що забезпечує рівномірне займання паливної суміші.",
+      "price": 780,
+      "image": "https://placehold.co/200x200/png?text=Spark+Plugs"
+    },
+    {
+      "id": 105,
+      "name": "Комплект щіток склоочисника",
+      "shortname": "wiper-blades",
+      "description": "Пара щіток для якісного очищення лобового скла під час дощу або снігу.",
+      "price": 560,
+      "image": "https://placehold.co/200x200/png?text=Wipers"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 3,
+  "name": "Догляд за авто",
+  "shortname": "car-care",
+  "notes": "Засоби для очищення кузова, скла, шин і салону автомобіля.",
+  "items": [
+    {
+      "id": 301,
+      "name": "Автошампунь",
+      "shortname": "car-shampoo",
+      "description": "Концентрований засіб для ручного миття кузова з безпечним очищенням лакофарбового покриття.",
+      "price": 260,
+      "image": "https://placehold.co/200x200/png?text=Shampoo"
+    },
+    {
+      "id": 302,
+      "name": "Очисник скла",
+      "shortname": "glass-cleaner",
+      "description": "Спрей для видалення слідів пилу, дощу та розводів із внутрішньої й зовнішньої поверхні скла.",
+      "price": 210,
+      "image": "https://placehold.co/200x200/png?text=Glass+Cleaner"
+    },
+    {
+      "id": 303,
+      "name": "Поліроль для панелі",
+      "shortname": "dashboard-polish",
+      "description": "Засіб для догляду за пластиковими елементами салону з легким матовим ефектом.",
+      "price": 240,
+      "image": "https://placehold.co/200x200/png?text=Dashboard"
+    },
+    {
+      "id": 304,
+      "name": "Очисник дисків",
+      "shortname": "wheel-cleaner",
+      "description": "Рідина для очищення колісних дисків від дорожнього нальоту, пилу та слідів гальмування.",
+      "price": 310,
+      "image": "https://placehold.co/200x200/png?text=Wheels"
+    },
+    {
+      "id": 305,
+      "name": "Мікрофібра для кузова",
+      "shortname": "microfiber-cloth",
+      "description": "М'яка серветка для сушіння кузова, скла та салону без подряпин і зайвих ворсинок.",
+      "price": 160,
+      "image": "https://placehold.co/200x200/png?text=Microfiber"
+    }
+  ]
+}

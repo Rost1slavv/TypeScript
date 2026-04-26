@@ -1,0 +1,48 @@
+{
+  "id": 2,
+  "name": "Аксесуари для авто",
+  "shortname": "car-accessories",
+  "notes": "Практичні товари для салону, багажника та щоденних поїздок.",
+  "items": [
+    {
+      "id": 201,
+      "name": "Тримач для смартфона",
+      "shortname": "phone-holder",
+      "description": "Компактний тримач на дефлектор для зручної навігації та безпечного доступу до телефона.",
+      "price": 390,
+      "image": "https://placehold.co/200x200/png?text=Phone+Holder"
+    },
+    {
+      "id": 202,
+      "name": "Автомобільний зарядний пристрій",
+      "shortname": "car-charger",
+      "description": "Зарядний адаптер для прикурювача з двома USB-портами для смартфона та навігатора.",
+      "price": 450,
+      "image": "https://placehold.co/200x200/png?text=Car+Charger"
+    },
+    {
+      "id": 203,
+      "name": "Органайзер у багажник",
+      "shortname": "trunk-organizer",
+      "description": "Складаний органайзер для інструментів, аптечки, кабелів та дрібних речей у багажнику.",
+      "price": 720,
+      "image": "https://placehold.co/200x200/png?text=Organizer"
+    },
+    {
+      "id": 204,
+      "name": "Гумові килимки",
+      "shortname": "rubber-mats",
+      "description": "Комплект універсальних килимків для захисту салону від вологи, бруду та пилу.",
+      "price": 1180,
+      "image": "https://placehold.co/200x200/png?text=Car+Mats"
+    },
+    {
+      "id": 205,
+      "name": "Компресор 12V",
+      "shortname": "car-compressor",
+      "description": "Портативний компресор для швидкого підкачування шин під час дороги або перед виїздом.",
+      "price": 1350,
+      "image": "https://placehold.co/200x200/png?text=Compressor"
+    }
+  ]
+}

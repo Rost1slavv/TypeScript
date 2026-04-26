@@ -1,0 +1,48 @@
+{
+  "id": 4,
+  "name": "Автосервісні послуги",
+  "shortname": "auto-services",
+  "notes": "Умовні послуги технічного обслуговування та діагностики авто.",
+  "items": [
+    {
+      "id": 401,
+      "name": "Комп'ютерна діагностика",
+      "shortname": "computer-diagnostics",
+      "description": "Перевірка електронних систем автомобіля, зчитування помилок і підготовка короткого звіту.",
+      "price": 700,
+      "image": "https://placehold.co/200x200/png?text=Diagnostics"
+    },
+    {
+      "id": 402,
+      "name": "Заміна моторної оливи",
+      "shortname": "oil-change",
+      "description": "Планова заміна оливи та масляного фільтра з перевіркою базових технічних рідин.",
+      "price": 950,
+      "image": "https://placehold.co/200x200/png?text=Oil+Change"
+    },
+    {
+      "id": 403,
+      "name": "Балансування коліс",
+      "shortname": "wheel-balancing",
+      "description": "Балансування комплекту коліс для зменшення вібрацій і рівномірного зносу шин.",
+      "price": 600,
+      "image": "https://placehold.co/200x200/png?text=Balancing"
+    },
+    {
+      "id": 404,
+      "name": "Перевірка гальмівної системи",
+      "shortname": "brake-check",
+      "description": "Огляд колодок, дисків, рівня гальмівної рідини та загального стану системи.",
+      "price": 500,
+      "image": "https://placehold.co/200x200/png?text=Brake+Check"
+    },
+    {
+      "id": 405,
+      "name": "Хімчистка салону",
+      "shortname": "interior-cleaning",
+      "description": "Комплексне очищення сидінь, килимків, пластику та важкодоступних зон салону.",
+      "price": 2400,
+      "image": "https://placehold.co/200x200/png?text=Interior"
+    }
+  ]
+}

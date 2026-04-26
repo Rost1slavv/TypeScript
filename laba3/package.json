@@ -1,0 +1,12 @@
+{
+  "name": "lab3-typescript-ajax-auto-catalog",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node server.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
