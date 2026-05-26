@@ -1,0 +1,172 @@
+[
+  {
+    "id": "ord-201",
+    "clientName": "Марія Коваль",
+    "street": "вул. Північна, 18",
+    "pickup": {
+      "x": 92,
+      "y": 1070
+    },
+    "destination": {
+      "x": 842,
+      "y": 168
+    },
+    "priority": "high",
+    "reward": 90,
+    "deadlineSeconds": 100,
+    "weightKg": 4.5
+  },
+  {
+    "id": "ord-202",
+    "clientName": "Ігор Мельник",
+    "street": "просп. Центральний, 42",
+    "pickup": {
+      "x": 92,
+      "y": 1070
+    },
+    "destination": {
+      "x": 1471,
+      "y": 388
+    },
+    "priority": "medium",
+    "reward": 70,
+    "deadlineSeconds": 125,
+    "weightKg": 2.2
+  },
+  {
+    "id": "ord-203",
+    "clientName": "Олена Савчук",
+    "street": "вул. Східна, 7",
+    "pickup": {
+      "x": 92,
+      "y": 1070
+    },
+    "destination": {
+      "x": 1690,
+      "y": 388
+    },
+    "priority": "high",
+    "reward": 115,
+    "deadlineSeconds": 165,
+    "weightKg": 6.1
+  },
+  {
+    "id": "ord-204",
+    "clientName": "Андрій Бойко",
+    "street": "вул. Шкільна, 3",
+    "pickup": {
+      "x": 92,
+      "y": 1070
+    },
+    "destination": {
+      "x": 206,
+      "y": 168
+    },
+    "priority": "low",
+    "reward": 55,
+    "deadlineSeconds": 115,
+    "weightKg": 1.7
+  },
+  {
+    "id": "ord-205",
+    "clientName": "Наталія Петренко",
+    "street": "вул. Офісна, 12",
+    "pickup": {
+      "x": 92,
+      "y": 1070
+    },
+    "destination": {
+      "x": 842,
+      "y": 388
+    },
+    "priority": "medium",
+    "reward": 75,
+    "deadlineSeconds": 140,
+    "weightKg": 3.4
+  },
+  {
+    "id": "ord-206",
+    "clientName": "Дмитро Романюк",
+    "street": "вул. Паркова, 29",
+    "pickup": {
+      "x": 92,
+      "y": 1070
+    },
+    "destination": {
+      "x": 206,
+      "y": 636
+    },
+    "priority": "low",
+    "reward": 60,
+    "deadlineSeconds": 135,
+    "weightKg": 5.8
+  },
+  {
+    "id": "ord-207",
+    "clientName": "Софія Гнатюк",
+    "street": "вул. Складська, 5",
+    "pickup": {
+      "x": 92,
+      "y": 1070
+    },
+    "destination": {
+      "x": 842,
+      "y": 1128
+    },
+    "priority": "high",
+    "reward": 100,
+    "deadlineSeconds": 105,
+    "weightKg": 7.0
+  },
+  {
+    "id": "ord-208",
+    "clientName": "Павло Кравець",
+    "street": "вул. КНУ, 88",
+    "pickup": {
+      "x": 92,
+      "y": 1070
+    },
+    "destination": {
+      "x": 1146,
+      "y": 636
+    },
+    "priority": "medium",
+    "reward": 82,
+    "deadlineSeconds": 150,
+    "weightKg": 4.0
+  },
+  {
+    "id": "ord-209",
+    "clientName": "Катерина Шевчук",
+    "street": "вул. Південна, 14",
+    "pickup": {
+      "x": 92,
+      "y": 1070
+    },
+    "destination": {
+      "x": 481,
+      "y": 928
+    },
+    "priority": "medium",
+    "reward": 78,
+    "deadlineSeconds": 130,
+    "weightKg": 3.1
+  },
+  {
+    "id": "ord-210",
+    "clientName": "Роман Левицький",
+    "street": "вул. Окружна, 101",
+    "pickup": {
+      "x": 92,
+      "y": 1070
+    },
+    "destination": {
+      "x": 1471,
+      "y": 1128
+    },
+    "priority": "high",
+    "reward": 105,
+    "deadlineSeconds": 175,
+    "weightKg": 5.3
+  }
+]

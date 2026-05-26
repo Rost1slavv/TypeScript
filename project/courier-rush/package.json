@@ -1,0 +1,13 @@
+{
+  "name": "courier-rush-semester-project",
+  "version": "1.0.0",
+  "description": "Courier Rush — браузерна 2D-гра на TypeScript у стилі дев'яностих років.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "serve": "npm run build && node server.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

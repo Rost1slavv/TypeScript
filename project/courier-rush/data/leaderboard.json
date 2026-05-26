@@ -1,0 +1,50 @@
+[
+  {
+    "id": "seed-classic-01",
+    "playerName": "RetroMax",
+    "score": 760,
+    "delivered": 8,
+    "date": "2026-05-01",
+    "mode": "classic"
+  },
+  {
+    "id": "seed-classic-02",
+    "playerName": "PixelCourier",
+    "score": 690,
+    "delivered": 7,
+    "date": "2026-05-03",
+    "mode": "classic"
+  },
+  {
+    "id": "seed-classic-03",
+    "playerName": "RoadRunner",
+    "score": 615,
+    "delivered": 6,
+    "date": "2026-05-04",
+    "mode": "classic"
+  },
+  {
+    "id": "seed-arcade-01",
+    "playerName": "TurboCourier",
+    "score": 1180,
+    "delivered": 5,
+    "date": "2026-05-02",
+    "mode": "arcade"
+  },
+  {
+    "id": "seed-arcade-02",
+    "playerName": "PixelFlash",
+    "score": 1040,
+    "delivered": 4,
+    "date": "2026-05-05",
+    "mode": "arcade"
+  },
+  {
+    "id": "seed-arcade-03",
+    "playerName": "QuickDrop",
+    "score": 920,
+    "delivered": 4,
+    "date": "2026-05-06",
+    "mode": "arcade"
+  }
+]
